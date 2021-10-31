@@ -1,2 +1,4 @@
-# PPiIS-3sem-Labs
-Labs of the PPiIS subject, 3rd semester.
+# PPiIS-AddTask
+First additional task; 
+Written by: student Klintsov Anton; 
+Teacher: Associate Professor of the Department Serdyukov Roman Evgenievich.
